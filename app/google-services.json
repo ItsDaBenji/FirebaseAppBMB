@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601268464463",
+    "project_id": "fir-appbmb",
+    "storage_bucket": "fir-appbmb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601268464463:android:8302fcdbdc93d6b065f33a",
+        "android_client_info": {
+          "package_name": "com.example.firebaseappbmb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601268464463-012vvtcv1n86p69r8bqmd71kfvoq0g8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuNqODOy45soA4meCopH3yFfnyrYTVvXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601268464463-012vvtcv1n86p69r8bqmd71kfvoq0g8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
